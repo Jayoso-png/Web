@@ -35,6 +35,7 @@
   </div>
 </nav>
 <div id="intro" class="view"> <div class="mask"> </div> </div>
+<link rel="stylesheet" rel="noopener" target="_blank" href="style.css">
 </header>
 <main>
     

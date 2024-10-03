@@ -1,4 +1,5 @@
-<nav class="navbar navbar-expand-lg navbar-dark primary-color">
+<header>
+<nav class="navbar navbar-expand-lg navbar-dark primary-color fixed-top">
   <div class="container">
     <a class="navbar-brand" rel="noopener" target="_blank" href="#">Navbar</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#basicExampleNav" aria-controls="basicExampleNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -33,3 +34,11 @@
     </div>
   </div>
 </nav>
+<div id="intro" class="view"> <div class="mask"> </div> </div>
+</header>
+<main>
+    
+</main>
+<footer>
+    
+</footer>
